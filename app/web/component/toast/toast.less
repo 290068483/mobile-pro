@@ -1,0 +1,28 @@
+@import "../../asset/css/global.less";
+.toast {
+  .width-full;
+  .flex;
+  .flex-hCenter;
+  .positionFixed;
+  top: -200px;
+  left: 0;
+  z-index: 10000;
+  opacity: 0;
+
+  .toast-message {
+    padding: @22px @42px;
+    .backgroundColor(@background-color-black-light);
+    .borderCircle(@6px);
+    color: @color-gray-white;
+    font-size: @30px;
+  }
+}
+
+.toast-show {
+  top: @140px;
+  opacity: 1;
+  -webkit-transition: opacity 300ms ease-in;
+  -moz-transition: opacity 300ms ease-in;
+  -o-transition: opacity 300ms ease-in;
+  transition: opacity 300ms ease-in;
+}

@@ -1,0 +1,66 @@
+{
+  "404.js": "/public/js/404.js",
+  "404.css": "/public/css/404.css",
+  "ssr.js": "/public/js/ssr.js",
+  "ssr.css": "/public/css/ssr.css",
+  "layout.js": "/public/js/layout.js",
+  "common.js": "/public/js/common.js",
+  "img/loading-logo@2x.png": "/public/img/loading-logo@2x.png",
+  "font/icomoon.eot?di12vc": "/public/font/icomoon.eot",
+  "font/icomoon.ttf?di12vc": "/public/font/icomoon.ttf",
+  "font/icomoon.woff?di12vc": "/public/font/icomoon.woff",
+  "img/404.png": "/public/img/404.png",
+  "img/list-no-data@2x.png": "/public/img/list-no-data@2x.png",
+  "img/loading-bkg@2x.png": "/public/img/loading-bkg@2x.png",
+  "img/icomoon.svg?di12vc": "/public/img/icomoon.svg",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "404.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/404.js"
+      ],
+      "css": [
+        "/public/css/404.css"
+      ]
+    },
+    "ssr.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/ssr.js"
+      ],
+      "css": [
+        "/public/css/ssr.css"
+      ]
+    },
+    "layout.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/layout.js"
+      ],
+      "css": []
+    },
+    "common.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/common.js"
+      ],
+      "css": []
+    },
+    "vendor.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/vendor.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}

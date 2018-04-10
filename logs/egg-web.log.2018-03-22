@@ -1,0 +1,527 @@
+2018-03-09 09:04:31,331 INFO 81758 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 09:04:31,369 INFO 81758 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-09 09:04:31,369 INFO 81758 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-09 09:04:31,420 INFO 81758 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-09 09:04:31,423 INFO 81758 [egg-security] use csrf middleware
+2018-03-09 09:04:31,424 INFO 81758 [egg-security] use methodnoallow middleware
+2018-03-09 09:04:31,424 INFO 81758 [egg-security] use noopen middleware
+2018-03-09 09:04:31,425 INFO 81758 [egg-security] use nosniff middleware
+2018-03-09 09:04:31,425 INFO 81758 [egg-security] use xssProtection middleware
+2018-03-09 09:04:31,425 INFO 81758 [egg-security] use xframe middleware
+2018-03-09 09:04:31,426 INFO 81758 [egg-security] use dta middleware
+2018-03-09 09:04:31,426 INFO 81758 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 09:04:31,462 INFO 81758 [egg-watcher:app] watcher start success
+2018-03-09 09:04:31,336 INFO 81759 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 09:04:31,375 INFO 81759 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-09 09:04:31,375 INFO 81759 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-09 09:04:31,432 INFO 81759 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-09 09:04:31,436 INFO 81759 [egg-security] use csrf middleware
+2018-03-09 09:04:31,436 INFO 81759 [egg-security] use methodnoallow middleware
+2018-03-09 09:04:31,437 INFO 81759 [egg-security] use noopen middleware
+2018-03-09 09:04:31,437 INFO 81759 [egg-security] use nosniff middleware
+2018-03-09 09:04:31,438 INFO 81759 [egg-security] use xssProtection middleware
+2018-03-09 09:04:31,438 INFO 81759 [egg-security] use xframe middleware
+2018-03-09 09:04:31,438 INFO 81759 [egg-security] use dta middleware
+2018-03-09 09:04:31,438 INFO 81759 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 09:04:31,468 INFO 81759 [egg-watcher:app] watcher start success
+2018-03-09 09:04:31,338 INFO 81757 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 09:04:31,375 INFO 81757 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-09 09:04:31,375 INFO 81757 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-09 09:04:31,448 INFO 81757 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-09 09:04:31,451 INFO 81757 [egg-security] use csrf middleware
+2018-03-09 09:04:31,452 INFO 81757 [egg-security] use methodnoallow middleware
+2018-03-09 09:04:31,452 INFO 81757 [egg-security] use noopen middleware
+2018-03-09 09:04:31,453 INFO 81757 [egg-security] use nosniff middleware
+2018-03-09 09:04:31,453 INFO 81757 [egg-security] use xssProtection middleware
+2018-03-09 09:04:31,454 INFO 81757 [egg-security] use xframe middleware
+2018-03-09 09:04:31,454 INFO 81757 [egg-security] use dta middleware
+2018-03-09 09:04:31,454 INFO 81757 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 09:04:31,482 INFO 81757 [egg-watcher:app] watcher start success
+2018-03-09 09:04:31,349 INFO 81760 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 09:04:31,383 INFO 81760 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-09 09:04:31,383 INFO 81760 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-09 09:04:31,441 INFO 81760 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-09 09:04:31,444 INFO 81760 [egg-security] use csrf middleware
+2018-03-09 09:04:31,445 INFO 81760 [egg-security] use methodnoallow middleware
+2018-03-09 09:04:31,446 INFO 81760 [egg-security] use noopen middleware
+2018-03-09 09:04:31,446 INFO 81760 [egg-security] use nosniff middleware
+2018-03-09 09:04:31,446 INFO 81760 [egg-security] use xssProtection middleware
+2018-03-09 09:04:31,447 INFO 81760 [egg-security] use xframe middleware
+2018-03-09 09:04:31,447 INFO 81760 [egg-security] use dta middleware
+2018-03-09 09:04:31,447 INFO 81760 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 09:04:31,479 INFO 81760 [egg-watcher:app] watcher start success
+2018-03-10 00:51:18,157 INFO 2625 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-10 00:51:18,190 INFO 2625 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-10 00:51:18,190 INFO 2625 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-10 00:51:18,261 INFO 2625 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-10 00:51:18,264 INFO 2625 [egg-security] use csrf middleware
+2018-03-10 00:51:18,265 INFO 2625 [egg-security] use methodnoallow middleware
+2018-03-10 00:51:18,267 INFO 2625 [egg-security] use noopen middleware
+2018-03-10 00:51:18,268 INFO 2625 [egg-security] use nosniff middleware
+2018-03-10 00:51:18,269 INFO 2625 [egg-security] use xssProtection middleware
+2018-03-10 00:51:18,270 INFO 2625 [egg-security] use xframe middleware
+2018-03-10 00:51:18,271 INFO 2625 [egg-security] use dta middleware
+2018-03-10 00:51:18,271 INFO 2625 [egg-security] compose 7 middlewares into one security middleware
+2018-03-10 00:51:18,306 INFO 2625 [egg-watcher:app] watcher start success
+2018-03-10 00:51:18,158 INFO 2626 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-10 00:51:18,192 INFO 2626 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-10 00:51:18,192 INFO 2626 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-10 00:51:18,261 INFO 2626 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-10 00:51:18,264 INFO 2626 [egg-security] use csrf middleware
+2018-03-10 00:51:18,265 INFO 2626 [egg-security] use methodnoallow middleware
+2018-03-10 00:51:18,267 INFO 2626 [egg-security] use noopen middleware
+2018-03-10 00:51:18,268 INFO 2626 [egg-security] use nosniff middleware
+2018-03-10 00:51:18,269 INFO 2626 [egg-security] use xssProtection middleware
+2018-03-10 00:51:18,270 INFO 2626 [egg-security] use xframe middleware
+2018-03-10 00:51:18,270 INFO 2626 [egg-security] use dta middleware
+2018-03-10 00:51:18,271 INFO 2626 [egg-security] compose 7 middlewares into one security middleware
+2018-03-10 00:51:18,313 INFO 2626 [egg-watcher:app] watcher start success
+2018-03-10 00:51:18,161 INFO 2624 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-10 00:51:18,200 INFO 2624 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-10 00:51:18,200 INFO 2624 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-10 00:51:18,261 INFO 2624 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-10 00:51:18,264 INFO 2624 [egg-security] use csrf middleware
+2018-03-10 00:51:18,265 INFO 2624 [egg-security] use methodnoallow middleware
+2018-03-10 00:51:18,267 INFO 2624 [egg-security] use noopen middleware
+2018-03-10 00:51:18,268 INFO 2624 [egg-security] use nosniff middleware
+2018-03-10 00:51:18,269 INFO 2624 [egg-security] use xssProtection middleware
+2018-03-10 00:51:18,270 INFO 2624 [egg-security] use xframe middleware
+2018-03-10 00:51:18,270 INFO 2624 [egg-security] use dta middleware
+2018-03-10 00:51:18,270 INFO 2624 [egg-security] compose 7 middlewares into one security middleware
+2018-03-10 00:51:18,303 INFO 2624 [egg-watcher:app] watcher start success
+2018-03-10 01:08:33,790 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:08:33,793 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:08:33,798 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:08:33,792 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:18:29,726 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:18:29,730 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:18:29,726 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:18:29,727 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:28:26,699 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:28:26,702 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:28:26,699 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:28:26,698 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:38:22,679 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:38:22,676 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:38:22,676 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:38:22,676 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:48:19,617 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:48:19,617 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:48:19,620 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:48:19,618 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 01:48:19,619 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:58:16,605 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:58:16,602 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:58:16,603 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 01:58:16,603 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:08:12,592 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:08:12,592 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:08:12,592 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:08:12,595 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:17:50,164 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:17:50,172 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:17:50,159 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:17:50,169 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:17:50,158 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:17:50,158 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:17:50,166 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:27:46,119 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:27:46,119 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:27:46,119 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:27:46,120 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:37:43,107 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:37:43,107 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:37:43,108 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:37:43,108 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:37:43,107 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:37:43,107 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:37:43,108 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:37:43,110 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:47:39,051 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:47:39,051 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:47:39,052 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:47:39,052 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:47:39,051 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:47:39,051 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:47:39,051 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:47:39,051 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 02:57:36,014 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 02:57:36,014 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:07:31,986 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:07:31,986 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:07:31,987 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:07:31,987 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:07:31,986 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:07:31,986 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:07:31,986 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:07:31,986 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:17:28,913 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:17:28,913 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:17:28,913 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:17:28,914 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:27:25,883 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:27:25,883 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:27:25,883 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:27:25,883 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:27:25,884 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:27:25,884 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:27:25,883 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:37:21,882 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:37:21,883 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:37:21,882 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:37:21,882 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:37:21,881 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:37:21,881 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:37:21,881 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:37:21,882 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:47:18,823 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:47:18,823 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:47:18,823 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:47:18,824 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:57:15,800 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:57:15,801 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:57:15,799 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:57:15,800 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:57:15,799 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:57:15,800 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 03:57:15,800 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 03:57:15,800 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:09:02,382 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:09:02,504 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:09:02,382 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:09:02,505 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:09:02,383 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:09:02,505 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:09:02,382 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:09:02,505 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:19:07,723 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:19:07,788 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:19:07,722 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:19:07,790 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:19:07,711 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:19:07,788 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:19:07,723 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:19:07,789 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:29:11,893 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:29:12,000 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:29:11,889 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:29:11,999 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:29:11,891 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:29:11,998 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:29:11,889 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:29:11,999 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:39:15,180 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:39:15,258 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:39:15,178 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:39:15,256 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:39:15,180 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:39:15,259 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:49:15,744 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:49:15,759 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:49:15,743 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:49:15,759 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:49:15,743 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:49:15,760 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:49:15,744 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:49:15,762 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:59:16,706 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:59:16,711 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:59:16,706 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:59:16,711 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 04:59:16,704 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 04:59:16,711 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:09:17,365 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:09:17,397 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:09:17,361 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:09:17,398 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:09:17,350 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:09:17,399 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:09:17,360 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:09:17,397 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:19:17,364 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:19:17,680 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:19:17,364 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:19:17,680 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:19:17,361 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:19:17,682 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:19:17,361 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:19:17,680 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:29:18,493 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:29:18,673 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:29:18,502 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:29:18,669 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:29:18,502 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:29:18,670 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:29:18,500 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:29:18,669 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:39:19,994 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:39:19,996 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:39:19,621 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:39:19,736 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:39:19,650 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:39:19,730 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:39:19,653 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:39:19,730 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:49:20,631 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:49:20,765 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:49:20,624 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:49:20,766 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:49:20,634 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:49:20,764 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:49:20,643 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:49:20,646 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:59:20,648 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:59:20,746 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:59:20,644 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:59:20,674 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 05:59:20,643 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 05:59:20,675 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:09:21,504 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:09:21,508 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:09:21,505 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:09:21,507 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:09:21,503 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:09:21,507 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:09:21,502 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:09:21,508 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:19:22,475 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:19:22,480 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:19:22,477 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:19:22,481 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:29:22,419 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:29:22,460 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:29:22,417 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:29:22,459 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:39:23,673 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:39:23,688 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:39:23,670 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:39:23,689 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:39:23,672 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:39:23,690 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:39:23,673 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:39:23,691 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:49:24,851 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:49:24,880 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:49:24,824 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:49:24,877 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:49:24,828 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:49:24,876 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:49:24,822 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:49:24,876 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:59:24,635 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:59:24,638 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:59:24,628 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:59:24,637 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:59:24,631 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:59:24,638 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 06:59:24,628 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 06:59:24,638 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:09:25,515 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:09:25,615 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:09:25,513 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:09:25,519 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:09:25,512 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:09:25,614 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:09:25,516 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:09:25,519 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:19:25,770 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:19:25,880 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:19:25,935 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:19:25,943 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:19:25,770 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:19:25,885 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:19:25,769 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:19:25,881 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:29:25,782 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:29:25,797 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:29:25,788 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:29:25,796 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:29:25,788 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:29:25,795 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:29:25,787 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:29:25,795 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:39:25,721 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:39:25,679 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:39:25,678 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:39:25,722 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:49:25,811 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:49:25,817 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:49:25,812 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:49:25,817 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:49:25,810 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 07:49:25,817 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:59:25,597 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:59:25,605 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:59:25,598 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 07:59:25,604 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:09:25,894 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:09:25,941 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:09:25,889 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:09:25,940 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:09:25,887 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:09:25,939 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:09:25,891 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:09:25,941 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:19:26,575 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:19:26,629 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:19:26,648 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:19:26,651 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:19:26,574 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:19:26,629 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:19:26,655 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:19:26,689 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:29:27,510 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:29:27,848 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:29:27,510 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:29:27,805 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:29:27,511 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:29:27,804 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:29:27,501 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:29:27,831 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:39:27,415 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:39:27,419 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:39:27,401 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:39:27,414 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:49:28,515 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:49:28,687 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:49:28,515 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:49:28,683 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:49:28,516 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:49:28,680 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:49:28,633 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:49:28,641 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:59:29,797 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:59:29,849 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:59:29,798 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:59:29,848 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 08:59:29,798 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 08:59:29,851 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 09:09:29,519 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 09:09:29,518 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 09:09:29,503 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 09:09:29,503 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 11:10:09,747 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 11:10:09,616 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 11:10:09,750 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 11:10:09,748 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 12:59:59,452 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 12:59:59,457 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 12:59:59,452 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 12:59:59,457 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 12:59:59,454 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 12:59:59,457 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:32:35,852 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 14:32:35,860 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:32:35,851 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 14:32:35,866 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:32:35,853 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 14:32:35,868 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:32:35,853 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 14:32:35,863 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:41:26,824 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:41:26,823 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 14:41:26,825 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 21:44:16,513 WARN 2626 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 21:44:16,823 WARN 2626 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 21:44:16,513 WARN 2624 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 21:44:16,823 WARN 2624 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 21:44:16,516 WARN 2625 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 21:44:16,823 WARN 2625 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-10 21:44:16,516 WARN 2623 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-10 21:44:16,823 WARN 2623 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-12 11:05:52,069 INFO 7856 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-12 11:05:52,107 INFO 7856 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-12 11:05:52,107 INFO 7856 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-12 11:05:52,196 INFO 7856 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-12 11:05:52,199 INFO 7856 [egg-security] use csrf middleware
+2018-03-12 11:05:52,200 INFO 7856 [egg-security] use methodnoallow middleware
+2018-03-12 11:05:52,200 INFO 7856 [egg-security] use noopen middleware
+2018-03-12 11:05:52,200 INFO 7856 [egg-security] use nosniff middleware
+2018-03-12 11:05:52,201 INFO 7856 [egg-security] use xssProtection middleware
+2018-03-12 11:05:52,202 INFO 7856 [egg-security] use xframe middleware
+2018-03-12 11:05:52,203 INFO 7856 [egg-security] use dta middleware
+2018-03-12 11:05:52,203 INFO 7856 [egg-security] compose 7 middlewares into one security middleware
+2018-03-12 11:05:52,231 INFO 7856 [egg-watcher:app] watcher start success
+2018-03-12 11:05:52,069 INFO 7858 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-12 11:05:52,107 INFO 7858 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-12 11:05:52,107 INFO 7858 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-12 11:05:52,195 INFO 7858 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-12 11:05:52,198 INFO 7858 [egg-security] use csrf middleware
+2018-03-12 11:05:52,199 INFO 7858 [egg-security] use methodnoallow middleware
+2018-03-12 11:05:52,200 INFO 7858 [egg-security] use noopen middleware
+2018-03-12 11:05:52,200 INFO 7858 [egg-security] use nosniff middleware
+2018-03-12 11:05:52,201 INFO 7858 [egg-security] use xssProtection middleware
+2018-03-12 11:05:52,202 INFO 7858 [egg-security] use xframe middleware
+2018-03-12 11:05:52,203 INFO 7858 [egg-security] use dta middleware
+2018-03-12 11:05:52,203 INFO 7858 [egg-security] compose 7 middlewares into one security middleware
+2018-03-12 11:05:52,234 INFO 7858 [egg-watcher:app] watcher start success
+2018-03-12 11:05:52,069 INFO 7857 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-12 11:05:52,107 INFO 7857 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-12 11:05:52,107 INFO 7857 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-12 11:05:52,196 INFO 7857 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/egg-react-single/public
+2018-03-12 11:05:52,199 INFO 7857 [egg-security] use csrf middleware
+2018-03-12 11:05:52,199 INFO 7857 [egg-security] use methodnoallow middleware
+2018-03-12 11:05:52,200 INFO 7857 [egg-security] use noopen middleware
+2018-03-12 11:05:52,200 INFO 7857 [egg-security] use nosniff middleware
+2018-03-12 11:05:52,201 INFO 7857 [egg-security] use xssProtection middleware
+2018-03-12 11:05:52,202 INFO 7857 [egg-security] use xframe middleware
+2018-03-12 11:05:52,203 INFO 7857 [egg-security] use dta middleware
+2018-03-12 11:05:52,203 INFO 7857 [egg-security] compose 7 middlewares into one security middleware
+2018-03-12 11:05:52,238 INFO 7857 [egg-watcher:app] watcher start success
+2018-03-22 23:56:00,708 INFO 35594 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 23:56:00,752 INFO 35594 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-22 23:56:00,752 INFO 35594 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-22 23:56:00,806 INFO 35594 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/public
+2018-03-22 23:56:00,810 INFO 35594 [egg-security] use csrf middleware
+2018-03-22 23:56:00,810 INFO 35594 [egg-security] use methodnoallow middleware
+2018-03-22 23:56:00,811 INFO 35594 [egg-security] use noopen middleware
+2018-03-22 23:56:00,811 INFO 35594 [egg-security] use nosniff middleware
+2018-03-22 23:56:00,811 INFO 35594 [egg-security] use xssProtection middleware
+2018-03-22 23:56:00,812 INFO 35594 [egg-security] use xframe middleware
+2018-03-22 23:56:00,812 INFO 35594 [egg-security] use dta middleware
+2018-03-22 23:56:00,812 INFO 35594 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 23:56:00,854 INFO 35594 [egg-watcher:app] watcher start success
+2018-03-22 23:56:00,719 INFO 35595 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 23:56:00,761 INFO 35595 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-22 23:56:00,761 INFO 35595 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-22 23:56:00,814 INFO 35595 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/public
+2018-03-22 23:56:00,817 INFO 35595 [egg-security] use csrf middleware
+2018-03-22 23:56:00,818 INFO 35595 [egg-security] use methodnoallow middleware
+2018-03-22 23:56:00,818 INFO 35595 [egg-security] use noopen middleware
+2018-03-22 23:56:00,819 INFO 35595 [egg-security] use nosniff middleware
+2018-03-22 23:56:00,819 INFO 35595 [egg-security] use xssProtection middleware
+2018-03-22 23:56:00,820 INFO 35595 [egg-security] use xframe middleware
+2018-03-22 23:56:00,820 INFO 35595 [egg-security] use dta middleware
+2018-03-22 23:56:00,820 INFO 35595 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 23:56:00,853 INFO 35595 [egg-watcher:app] watcher start success
+2018-03-22 23:56:00,722 INFO 35597 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 23:56:00,766 INFO 35597 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-22 23:56:00,766 INFO 35597 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-22 23:56:00,819 INFO 35597 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/public
+2018-03-22 23:56:00,822 INFO 35597 [egg-security] use csrf middleware
+2018-03-22 23:56:00,823 INFO 35597 [egg-security] use methodnoallow middleware
+2018-03-22 23:56:00,823 INFO 35597 [egg-security] use noopen middleware
+2018-03-22 23:56:00,824 INFO 35597 [egg-security] use nosniff middleware
+2018-03-22 23:56:00,826 INFO 35597 [egg-security] use xssProtection middleware
+2018-03-22 23:56:00,827 INFO 35597 [egg-security] use xframe middleware
+2018-03-22 23:56:00,827 INFO 35597 [egg-security] use dta middleware
+2018-03-22 23:56:00,827 INFO 35597 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 23:56:00,865 INFO 35597 [egg-watcher:app] watcher start success
+2018-03-22 23:56:00,728 INFO 35596 [egg:logger] init all loggers with options: {"dir":"/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-react-single-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 23:56:00,771 INFO 35596 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-22 23:56:00,771 INFO 35596 [egg-schedule]: register schedule /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-22 23:56:00,824 INFO 35596 [egg-static] starting static serve /public/ -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/public
+2018-03-22 23:56:00,827 INFO 35596 [egg-security] use csrf middleware
+2018-03-22 23:56:00,828 INFO 35596 [egg-security] use methodnoallow middleware
+2018-03-22 23:56:00,828 INFO 35596 [egg-security] use noopen middleware
+2018-03-22 23:56:00,829 INFO 35596 [egg-security] use nosniff middleware
+2018-03-22 23:56:00,829 INFO 35596 [egg-security] use xssProtection middleware
+2018-03-22 23:56:00,829 INFO 35596 [egg-security] use xframe middleware
+2018-03-22 23:56:00,832 INFO 35596 [egg-security] use dta middleware
+2018-03-22 23:56:00,832 INFO 35596 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 23:56:00,868 INFO 35596 [egg-watcher:app] watcher start success
+2018-03-23 00:00:00,015 INFO 35595 [egg-logrotator] clean all log before 31 days
+2018-03-23 00:00:00,015 INFO 35595 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 4ms
+2018-03-23 00:00:01,013 INFO 35595 [egg-logrotator] broadcast log-reload
+2018-03-23 00:00:01,013 INFO 35595 [egg-logrotator] rotate files success by DayRotator, files ["/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/common-error.log -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/common-error.log.2018-03-22","/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-react-single-web.log -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-react-single-web.log.2018-03-22","/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-web.log -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-web.log.2018-03-22","/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-react-single/egg-schedule.log -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-react-single/egg-schedule.log.2018-03-22","/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-agent.log -> /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/logs/egg-agent.log.2018-03-22"]
+2018-03-23 00:00:01,013 INFO 35595 [-/127.0.0.1/-/8ms SCHEDULE /__schedule?path=/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 8ms

@@ -1,0 +1,2053 @@
+2018-03-23 00:12:12,249 ERROR 35595 A client (::ffff:192.168.1.101:50730) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-23 00:12:12,710 ERROR 35597 A client (::ffff:192.168.1.101:50732) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-23 00:12:12,440 ERROR 35596 A client (::ffff:192.168.1.101:50731) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-23 00:34:58,485 ERROR 35743 [-/192.168.1.101/-/9ms GET /a] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35743
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:35:51,972 ERROR 35758 [-/192.168.1.101/-/313ms GET /public/js/common.js] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35758
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:35:51,972 ERROR 35757 [-/192.168.1.101/-/312ms GET /public/css/ssr.css] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35757
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:35:51,897 ERROR 35759 [-/192.168.1.101/-/207ms GET /ssr] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/ssr.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35759
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:35:51,974 ERROR 35760 [-/192.168.1.101/-/307ms GET /public/js/ssr.js] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35760
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:38:04,579 ERROR 35779 [-/192.168.1.101/-/225ms GET /ssr] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/ssr.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35779
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:38:54,853 ERROR 35797 [-/192.168.1.101/-/196ms GET /ssr] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/ssr.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 35797
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 00:49:41,526 ERROR 35891 A client (undefined:NaN) error [EPIPE] occurred: write EPIPE
+2018-03-23 00:49:41,529 ERROR 35891 [-/undefined/-/12254ms GET /public/js/vendor.js] nodejs.Error: write after end
+    at writeAfterEnd (_stream_writable.js:234:12)
+    at Socket.Writable.write (_stream_writable.js:285:5)
+    at Socket.write (net.js:695:40)
+    at Socket.Writable.end (_stream_writable.js:550:10)
+    at Socket.end (net.js:487:31)
+    at Application.onClientError (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg/lib/application.js:85:12)
+    at Server.server.on (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg/lib/application.js:103:52)
+    at emitTwo (events.js:125:13)
+    at Server.emit (events.js:213:7)
+    at Socket.socketOnError (_http_server.js:456:20)
+headerSent: true
+pid: 35891
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:16:44,257 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 584207ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:16:44,261 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 584183ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:16:44,263 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 584181ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:16:44,266 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 584169ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:26:40,170 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 575628ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:26:40,174 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 575617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:26:40,175 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 575616ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:26:40,178 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 575608ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:36:37,115 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576905ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:36:37,118 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:36:37,119 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:36:37,120 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576904ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:46:33,618 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576472ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:46:33,624 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576470ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:46:33,631 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576459ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 01:46:33,633 ERROR 35886 nodejs.ClusterClientNoResponseError: client no response in 576467ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35886
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:10:08,404 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 723876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:10:08,405 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 723876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:10:08,406 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 723876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:10:08,406 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 723751ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:21:30,338 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 661916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:21:30,339 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 661916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:21:30,339 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 661916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 03:21:30,340 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 661917ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 05:58:29,568 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 9399219ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 05:58:29,569 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 9399219ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 05:58:29,569 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 9399220ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 05:58:29,570 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 9399219ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:25:52,159 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1642386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:25:52,290 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1642386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:25:52,291 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1642386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:25:52,292 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1642385ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:41:44,878 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 675473ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:41:44,887 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 675471ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:41:44,890 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 675471ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 06:41:44,890 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 675472ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:04:13,440 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307618ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:04:13,458 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307618ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:04:13,462 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307658ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:04:13,464 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307436ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:26:21,696 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307136ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:26:21,762 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307136ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:26:21,763 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307120ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 07:26:21,763 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1307119ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 09:50:54,922 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 2419920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 09:50:54,925 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 2419921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 09:50:54,926 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 2419920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 09:50:54,926 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 2419921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 10:02:17,647 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 90071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 10:02:17,648 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 90071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 10:02:17,648 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 90071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 10:02:17,650 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 90072ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:05:35,535 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 487802ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:05:35,535 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 487842ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:05:35,538 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 487842ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:05:35,539 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 487842ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:32:40,983 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1454553ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:32:40,983 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1454553ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:32:40,984 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1454554ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 11:32:40,986 ERROR 35974 nodejs.ClusterClientNoResponseError: client no response in 1454553ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 35974
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:14:57,470 ERROR 39023 [-/172.16.30.74/-/27ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:15:00,329 ERROR 39023 [-/172.16.30.74/-/24ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:15:01,834 ERROR 39023 [-/172.16.30.74/-/34ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:15:02,275 ERROR 39023 [-/172.16.30.74/-/18ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:15:02,517 ERROR 39023 [-/172.16.30.74/-/15ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 15:15:02,728 ERROR 39023 [-/172.16.30.74/-/11ms GET /ssr] nodejs.ReferenceError: alert is not defined
+    at Home.componentWillMount (evalmachine.<anonymous>:605:7)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2119:12)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39023
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 16:06:17,041 ERROR 39177 [-/172.16.30.74/-/5025ms GET /ssr] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET http://172.16.30.112:8889/help-app/phone/type -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/urllib/lib/urllib.js:755:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ConnectionTimeoutError'
+requestId: 1
+data: undefined
+path: '/help-app/phone/type?appid=1'
+status: -2
+headers: {}
+res: { status: -2, statusCode: -2, headers: {}, size: 0, aborted: false, rt: 5013, keepAliveSocket: false, data: undefined, requestUrls: [ 'http://172.16.30.112:8889/help-app/phone/type' ], timing: null, remoteAddress: '', remotePort: '' }
+pid: 39177
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 16:06:22,252 ERROR 39177 [-/172.16.30.74/-/5004ms GET /ssr] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET http://172.16.30.112:8889/help-app/phone/type -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/urllib/lib/urllib.js:755:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ConnectionTimeoutError'
+requestId: 2
+data: undefined
+path: '/help-app/phone/type?appid=1'
+status: -2
+headers: {}
+res: { status: -2, statusCode: -2, headers: {}, size: 0, aborted: false, rt: 5003, keepAliveSocket: false, data: undefined, requestUrls: [ 'http://172.16.30.112:8889/help-app/phone/type' ], timing: null, remoteAddress: '', remotePort: '' }
+pid: 39177
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 16:11:57,797 ERROR 39192 [-/172.16.30.74/-/5030ms GET /ssr] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET http://192.168.2.237:8064/help-app/phone/type -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/urllib/lib/urllib.js:769:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ResponseTimeoutError'
+requestId: 1
+data: undefined
+path: '/help-app/phone/type?appid=1'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5019, keepAliveSocket: false, data: undefined, requestUrls: [ 'http://192.168.2.237:8064/help-app/phone/type' ], timing: null, remoteAddress: '192.168.2.237', remotePort: 8064 }
+pid: 39192
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 16:12:03,129 ERROR 39192 [-/172.16.30.74/-/5016ms GET /ssr] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET http://192.168.2.237:8064/help-app/phone/type -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/urllib/lib/urllib.js:769:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ResponseTimeoutError'
+requestId: 2
+data: undefined
+path: '/help-app/phone/type?appid=1'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5014, keepAliveSocket: false, data: undefined, requestUrls: [ 'http://192.168.2.237:8064/help-app/phone/type' ], timing: null, remoteAddress: '192.168.2.237', remotePort: 8064 }
+pid: 39192
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:37:41,237 ERROR 39603 [-/172.16.30.74/-/27ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39603
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:03,566 ERROR 39602 [-/172.16.30.74/-/32ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39602
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:07,319 ERROR 39612 [-/172.16.30.74/-/34ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39612
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:07,791 ERROR 39612 [-/172.16.30.74/-/10ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39612
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,077 ERROR 39612 [-/172.16.30.74/-/10ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39612
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,303 ERROR 39612 [-/172.16.30.74/-/10ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headerSent: true
+pid: 39612
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,326 ERROR 39613 [-/172.16.30.74/-/23ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39613
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,557 ERROR 39613 [-/172.16.30.74/-/10ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39613
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,763 ERROR 39613 [-/172.16.30.74/-/9ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39613
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:08,782 ERROR 39613 [-/172.16.30.74/-/8ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39613
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:17,867 ERROR 39610 [-/172.16.30.74/-/32ms GET /ssr] nodejs.ReferenceError: res is not defined
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:10:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 39610
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 18:38:19,190 ERROR 39617 A client (undefined:NaN) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-23 18:38:19,069 ERROR 39614 A client (undefined:NaN) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-23 19:44:09,843 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 73016ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 19:44:09,843 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 73014ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 19:44:09,845 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 72976ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 19:44:09,846 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 72976ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 20:24:35,090 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 2280797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 20:24:35,090 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 2280798ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 20:24:35,091 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 2280797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 20:24:35,091 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 2280797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 22:43:15,814 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 8300702ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 22:43:15,815 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 8300702ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 22:43:15,815 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 8300702ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-23 22:43:15,815 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 8300701ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:23:24,093 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9548026ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:23:24,314 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9548025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:23:24,320 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9548025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:23:24,322 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9548025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:35:17,035 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 672602ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:35:17,037 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 672590ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:35:17,039 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 672589ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 01:35:17,047 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 672190ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:02:43,066 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1625383ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:02:43,102 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1625386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:02:43,331 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1625386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:02:43,331 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1625382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:15:31,174 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 671000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:15:31,195 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 671000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:15:31,198 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 671000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:15:31,234 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 670810ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:22:42,866 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 353594ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:22:42,869 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 353595ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:22:42,869 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 353594ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 02:22:42,870 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 353594ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 07:44:13,626 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 19208996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 07:44:13,636 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 19208952ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 07:44:13,657 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 19208996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 07:44:13,658 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 19208995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 22:49:51,856 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 54337602ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 22:49:51,868 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 54337594ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 22:49:51,870 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 54337593ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 22:49:51,870 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 54337591ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 23:21:08,124 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 103419ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 23:21:08,127 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 103415ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 23:21:08,130 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 103373ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-24 23:21:08,130 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 103385ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:10:24,539 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9975545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:10:24,541 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9975541ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:10:24,542 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9975545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:10:24,543 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 9975545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:34:46,546 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1305547ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:34:46,566 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1305547ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:34:46,568 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1305548ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:34:46,575 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 1305547ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:42:58,703 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 357924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:42:58,959 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 357924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:42:59,044 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 357924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 02:42:59,046 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 357924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 11:25:01,701 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 31301693ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 11:25:01,703 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 31301727ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 11:25:01,768 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 31301726ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-25 11:25:02,198 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 31301693ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 09:34:45,758 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 79783383ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 09:34:45,760 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 79783353ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 09:34:45,784 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 79783352ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 09:34:45,785 ERROR 39205 nodejs.ClusterClientNoResponseError: client no response in 79783352ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 39205
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 09:36:39,813 ERROR 40107 nodejs.ENOENTError: ENOENT: no such file or directory, lstat '/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/config/manifest.json'
+ENOENTError: ENOENT: no such file or directory, lstat '/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/config/manifest.json'
+errno: -2
+code: 'ENOENT'
+syscall: 'lstat'
+path: '/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/config/manifest.json'
+dir: '/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/config'
+name: 'ENOENTError'
+pid: 40107
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 10:36:38,220 ERROR 40294 [-/172.16.30.74/-/8ms GET /ssr] nodejs.ReferenceError: resHelpType is not defined
+    at SPAService.getHelpType (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/service/spa.js:9:60)
+    at SPAController.ssr (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:9:73)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 40294
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 10:50:41,899 ERROR 40404 [-/172.16.30.74/-/8ms GET /api/help-app/phone/type] nodejs.ReferenceError: ctx is not defined
+    at SPAController.getHelpType (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:19:59)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 40404
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 11:38:50,373 ERROR 40555 [-/172.16.30.74/-/71ms GET /ssr] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/ssr.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 40555
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 11:38:50,269 ERROR 40554 [-/172.16.30.74/-/16ms GET /public/css/ssr.css] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 40554
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 11:38:50,272 ERROR 40557 [-/172.16.30.74/-/23ms GET /public/js/common.js] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 40557
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 11:38:50,271 ERROR 40556 [-/172.16.30.74/-/21ms GET /public/js/ssr.js] nodejs.Error: read webpack memory file[/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/view/404.js] content is empty, please check if the file exists
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-webpack-react/app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/co/index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 40556
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 11:39:52,299 ERROR 40554 [-/172.16.30.74/-/210ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at new Home (evalmachine.<anonymous>:603:5)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2100:14)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 40554
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 12:48:27,059 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1214249ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 12:48:27,060 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1214225ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 12:48:27,061 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1214178ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 12:48:27,061 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1214178ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:24:35,841 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 2148766ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:24:35,841 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 2148766ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:24:35,842 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 2148765ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:24:35,842 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 2148765ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:48:58,202 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1442354ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:48:58,202 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1442343ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:48:58,205 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1442342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 13:48:58,206 ERROR 40668 nodejs.ClusterClientNoResponseError: client no response in 1442342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 40668
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 14:55:00,867 ERROR 41380 [-/172.16.30.74/-/942ms GET /ssr/detail/459] nodejs.TypeError: Cannot read property 'helpText' of null
+    at Detail.render (evalmachine.<anonymous>:1435:17)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2149:18)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41380
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 14:55:01,183 ERROR 41380 [-/172.16.30.74/-/51ms GET /ssr/detail/459] nodejs.TypeError: Cannot read property 'helpText' of null
+    at Detail.render (evalmachine.<anonymous>:1435:17)
+    at resolve (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2149:18)
+    at ReactDOMServerRenderer.render (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2260:22)
+    at ReactDOMServerRenderer.read (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2234:19)
+    at Object.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/react-dom/cjs/react-dom-server.node.development.js:2501:25)
+    at Engine.renderToString (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:62:27)
+    at reactElement.then.element (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-view-react-ssr/lib/engine.js:50:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 41380
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 17:12:51,354 ERROR 41647 [-/172.16.30.74/-/5ms POST /help-app/phone/isUse] nodejs.TypeError: Cannot match against 'undefined' or 'null'.
+    at SPAController.helpGood (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:40:37)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 41647
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 17:14:20,922 ERROR 41645 [-/172.16.30.74/-/41ms POST /help-app/phone/isUse] nodejs.TypeError: Cannot match against 'undefined' or 'null'.
+    at SPAController.helpGood (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:40:37)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 41645
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 17:16:27,113 ERROR 46565 [-/172.16.30.74/-/21ms POST /help-app/phone/isUse] nodejs.TypeError: Cannot match against 'undefined' or 'null'.
+    at SPAController.helpGood (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:41:37)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 46565
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 17:17:07,358 ERROR 46566 [-/172.16.30.74/-/19ms POST /help-app/phone/isUse] nodejs.TypeError: Cannot match against 'undefined' or 'null'.
+    at SPAController.helpGood (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/app/controller/spa.js:41:37)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 46566
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:08,167 ERROR 46705 [-/172.16.30.74/-/25ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:12,737 ERROR 46705 [-/172.16.30.74/-/27ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:13,504 ERROR 46705 [-/172.16.30.74/-/28ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:13,759 ERROR 46705 [-/172.16.30.74/-/22ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:14,001 ERROR 46705 [-/172.16.30.74/-/22ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:14,234 ERROR 46705 [-/172.16.30.74/-/32ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:14,409 ERROR 46705 [-/172.16.30.74/-/21ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:14,457 ERROR 46705 [-/172.16.30.74/-/26ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 18:25:14,546 ERROR 46705 [-/172.16.30.74/-/19ms GET /ssr] nodejs.ReferenceError: instance is not defined
+    at Object.<anonymous> (evalmachine.<anonymous>:2319:25)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:1227:71)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2243:94)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at Object.<anonymous> (evalmachine.<anonymous>:2125:80)
+    at __webpack_require__ (evalmachine.<anonymous>:21:30)
+    at evalmachine.<anonymous>:64:18
+    at evalmachine.<anonymous>:67:10
+
+pid: 46705
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 21:09:27,529 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 7219730ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 21:09:27,530 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 7219679ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 21:09:27,531 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 7219585ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 21:09:27,531 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 7219570ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:18:58,165 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 4150206ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:18:58,171 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 4150204ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:18:58,171 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 4150204ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:18:58,171 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 4150204ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:39:48,657 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1230241ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:39:48,658 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1230239ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:39:48,659 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1230233ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 22:39:48,671 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1230238ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:00:35,905 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1226640ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:00:35,909 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1226640ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:00:35,946 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1226640ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:00:35,947 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 1226543ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:02:35,890 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 99377ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:02:35,898 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 99377ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:02:35,899 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 99376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+
+2018-03-26 23:02:36,227 ERROR 41209 nodejs.ClusterClientNoResponseError: client no response in 99376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/xingding/Documents/works/goodsogood/union/chongqing/projects/mobile/ssr-single-help-new/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ClusterClientNoResponseError'
+pid: 41209
+hostname: xingdeMacBook-Pro.local
+

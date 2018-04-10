@@ -1,0 +1,83 @@
+@import "../../asset/css/global.less";
+.listviewindicator {
+  .width-full;
+  height: 25px;
+  .flex;
+  .flex-hCenter;
+  .flex-vCenter;
+  .overflow-hidden;
+
+  .listviewindicator-loading {
+    margin-right: 10px;
+    width: 25px;
+    height: 25px;
+    .positionRelative;
+
+    .listviewindicator-rotate {
+      width: 25px;
+      height: 25px;
+      .positionAbsolute-zero;
+      z-index: 2;
+      
+      &.listviewindicator-rotate-bkg {
+        z-index: 1;
+      }
+
+      &.listviewindicator-rotate-animation {
+        -webkit-animation: listviewindicator-rotate-animation 1s infinite linear;
+        animation: listviewindicator-rotate-animation 1s infinite linear;
+      }
+    }
+
+    .listviewindicator-logo {
+      margin: auto;
+      width: 20px;
+      height: 20px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 3;
+    }
+  }
+
+  .listviewindicator-message {
+    height: 25px;
+    line-height: 28px;
+  }
+}
+
+@-webkit-keyframes listviewindicator-rotate-animation {
+  0% {
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+  }
+}
+
+@keyframes listviewindicator-rotate-animation {
+  0% {
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+  }
+}

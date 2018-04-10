@@ -1,0 +1,37 @@
+@import "../../asset/css/global.less";
+.header {
+  padding: 0 @30px;
+  .width-full;
+  height: @100px;
+  .flex;
+  .flex-vCenter;
+  .backgroundColor(@color-white);
+  .borderBottomSolid(@1px, @border-color);
+  .positionFixed-zero;
+  z-index: 1;
+
+  .header-button {
+    .block;
+    color: @color-black-light;
+    font-size: @34px;
+    .redirect;
+
+    &.header-button-close {
+      margin-left: @42px;
+    }
+  }
+
+  .header-title {
+    padding: 0 @50px;
+    .width-full;
+    color: @color-black-light;
+    font-size: @36px;
+    .font-normal;
+    .font-hCenter;
+    .textOverflow-ellipsis;
+
+    &.header-title-blue {
+      color: @color-blue;
+    }
+  }
+}
