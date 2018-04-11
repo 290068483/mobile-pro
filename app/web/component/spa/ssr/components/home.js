@@ -246,7 +246,7 @@ class Home extends Component {
 						<span className="tags">{rowData.tags}</span>
 						<span className="price">{rowData.price}</span>
 						<span className="button" onClick={()=>{
-							this.props.history.push('/ssr/vote');
+							this.props.history.push('/ssr/sign-up-activity');
 						}}>立即报名</span>
 					</div>
 				</div>

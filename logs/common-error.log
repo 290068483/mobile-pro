@@ -14031,3 +14031,123 @@ hostname: chuanshao-2.local
 pid: 6341
 hostname: chuanshao-2.local
 
+2018-04-11 09:31:29,036 ERROR 1020 nodejs.unhandledExceptionError: listen EADDRINUSE :::9000
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9000
+name: 'unhandledExceptionError'
+pid: 1020
+hostname: chuanshao-2.local
+
+2018-04-11 09:31:29,036 ERROR 1020 nodejs.unhandledExceptionError: listen EADDRINUSE :::9001
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9001
+name: 'unhandledExceptionError'
+pid: 1020
+hostname: chuanshao-2.local
+
+2018-04-11 15:59:41,519 ERROR 4506 nodejs.unhandledExceptionError: listen EADDRINUSE :::9000
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9000
+name: 'unhandledExceptionError'
+pid: 4506
+hostname: chuanshao-2.local
+
+2018-04-11 15:59:41,520 ERROR 4506 nodejs.unhandledExceptionError: listen EADDRINUSE :::9001
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9001
+name: 'unhandledExceptionError'
+pid: 4506
+hostname: chuanshao-2.local
+
+2018-04-11 16:01:29,309 ERROR 4578 nodejs.unhandledExceptionError: listen EADDRINUSE :::9000
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9000
+name: 'unhandledExceptionError'
+pid: 4578
+hostname: chuanshao-2.local
+
+2018-04-11 16:01:29,309 ERROR 4578 nodejs.unhandledExceptionError: listen EADDRINUSE :::9001
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1366:14)
+    at listenInCluster (net.js:1407:12)
+    at Server.listen (net.js:1495:7)
+    at Application.app.listen (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/node_modules/koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/Users/chuans/Documents/to-g-apps/node_modules/webpack-tool/lib/tool.js:208:9)
+    at config.webpackConfigList.forEach (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:27:15)
+    at Array.forEach (<anonymous>)
+    at build.dll (/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack/lib/server.js:25:37)
+errno: 'EADDRINUSE'
+code: 'EADDRINUSE'
+syscall: 'listen'
+address: '::'
+port: 9001
+name: 'unhandledExceptionError'
+pid: 4578
+hostname: chuanshao-2.local
+
