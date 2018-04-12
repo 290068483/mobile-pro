@@ -552,6 +552,62 @@ body {
     }
 }
 
+.get-vote-result{
+    padding-top: @98px;
+    .loading-vote{
+        position: absolute;
+        left:0;
+        top:0;
+        bottom:0;
+        right: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding-top: @300px;
+        img{
+            width: 30%;
+        }
+        p{
+            font-size: @36px;
+            color: #333;
+            margin-top: @28px;
+        }
+    }
+    .result{
+        .top-icon{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height:@375px;
+            width: 100%;
+            img{
+               width: 20%;
+            }
+            p{
+                padding:@40px 0 0 @30px;
+            }
+        }
+        .desc{
+            margin: 0 15px 15px 15px;
+            background: #fff;
+            padding:@30px;
+            min-height: @200px;
+            p{
+                color: #666666;
+                font-size: @30px;
+                line-height: @50px;
+            }
+        }
+        .button{
+            height: @98px;
+            justify-content:center;
+            border: 0 none;
+        }
+    }
+}
+
 // .function {
 //   .px2rem(@px) {
 //     @return: (@px / 36px) + rem;

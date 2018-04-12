@@ -13,6 +13,8 @@ import SelectVoteType from 'component/spa/ssr/components/select-vote-type';
 import InputPersionInfo from 'component/spa/ssr/components/input-persion-info';
 // 确认订单页
 import SureActivityInfo from 'component/spa/ssr/components/sure-activity-info';
+// 获取结果中
+import GetVoteResult from 'component/spa/ssr/components/get-vote-result';
 
 import 'asset/css/app.less';
 
@@ -39,6 +41,7 @@ class App extends Component {
         <Route path="/ssr/select-vote-type" component={SelectVoteType}/>
         <Route path="/ssr/input-persion-info" component={InputPersionInfo}/>
         <Route path="/ssr/sure-activity-info" component={SureActivityInfo}/>
+        <Route path="/ssr/get-vote-result" component={GetVoteResult}/>
         <Route path="/ssr" component={Home}/>
       </Switch>
       {/*<img ref={el => this.checkImgWebP = el} src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=" onLoad={this.imgWebP} onError={this.imgWebP}/>*/}

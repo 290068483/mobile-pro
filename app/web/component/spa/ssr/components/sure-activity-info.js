@@ -46,7 +46,7 @@ class SureActivityInfo extends Component {
 				<div className="buttons">
 					<div className="share">共计：0点券</div>
 					<div className="but green" onClick={()=>{
-						this.props.history.push('select-vote-type');
+						this.props.history.push('get-vote-result');
 					}}>报名</div>
 				</div>
 

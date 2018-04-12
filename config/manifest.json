@@ -13,6 +13,8 @@
   "img/list-no-data@2x.png": "/public/img/list-no-data@2x.png",
   "img/loading-bkg@2x.png": "/public/img/loading-bkg@2x.png",
   "img/icomoon.svg?di12vc": "/public/img/icomoon.svg",
+  "img/loading-vote.png": "/public/img/loading-vote.png",
+  "img/warnning.png": "/public/img/warnning.png",
   "vendor.js": "/public/js/vendor.js",
   "deps": {
     "ssr.js": {
