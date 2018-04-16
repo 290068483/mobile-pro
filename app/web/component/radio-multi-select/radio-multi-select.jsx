@@ -35,16 +35,15 @@ render(){
     return (
         <div className="main-vote-wrap radio-multi-select-wrapper">
             {voteInfo && voteInfo.map( (val,index_p) => {
+                 let classN = `${val.type == 1 ?'radio':'multi'}-wrapper`
                         return (
-                            <div className="body-content" key={index_p}>
+                            <div className={`${classN} body-content`} key={index_p}>
                                 <div className="select-row-title">投票选项{val.type === 1 ? '（单选）' : '（多选）'}</div>
                                 {val.list.map( (val_1,index_c) => {
                                     let classN = 'option' + (index_c===val.list.length-1 ? ' last':'');
-    
                                     if(val_1.isActive){
                                         classN += ' active';
                                     }
-    
                                     return (
                                         <div className={classN} key={index_c}>
                                             <div className="left">
