@@ -277,7 +277,8 @@ class Detail extends Component {
             <div className={`detail-post-container-bar${postShow ? ' fade-in' : ''}`}>
               <Button text="提交" buttonClass={feedbackText !== '' ? 'button-blue' : ''} click={this.post}></Button>
             </div>
-            {/* todo: react监听键盘弹出收起问题 */}
+            {/* todo: react监听键盘弹出收
+            起问题 */}
             <div className={`detail-post-container-area${postShow ? ' fade-in' : ''}`}>
               <textarea onInput={this.input} onFocus={this.inputFocus} onBlur={this.inputBlur} placeholder="请告诉我们您的困惑，我们会更新帮助说明。" value={feedbackText} className="detail-post-container-textarea"></textarea>
             </div>

@@ -8,16 +8,18 @@ import {
 	Button,
     WingBlank,
     Row,
-    Col 
+    Col
 } from 'antd-mobile';
 
 
-
+import Alert from 'component/alert/alert';
 
 class ActivitySucess extends Component {
 	constructor( props ) {
         super( props );
-		this.state = {};
+		this.state = {
+            alertShow:false
+        };
 	}
 
 	componentDidMount() {
@@ -29,10 +31,32 @@ class ActivitySucess extends Component {
         this.props.history.replace('/ssr');
     }
 
+    showAlert (message) {
+        const { alertShow } = this.state;
+        if (alertShow) {
+          this.closeTimeout();
+        }
+        this.setState({
+            alertShow:true,
+            toastMessage:message
+        })
+      }
+
+      componentWillMount() {
+        //this.showAlert('啦啦啦啦' || '');
+      }
+      confirmHandle(){
+          this.setState({
+            alertShow:false
+          })
+      }
+
+
 	render() {
         const {match} = this.props,
               {params} = match,
               {typeId} = params,
+              {alertShow,toastMessage} = this.state,
          TypeMaps = {
             1:{
                 title:'投票成功'
@@ -56,6 +80,9 @@ class ActivitySucess extends Component {
 
 		return (
 			<div className="main-status-wrapper">
+              <Alert 
+              confirmHandle = {this.confirmHandle.bind(this)}
+              show={alertShow} message={toastMessage} style={{backgroundColor:'#1AAD19',color:'#fff'}}/>
 				<Header titleIsBlueColor={false} isBack={true} back={() => this.props.history.goBack()} title="投票成功"/>
                 {/* todo 这里需要换成变量 */}
 				<div className="header-content">
@@ -64,12 +91,6 @@ class ActivitySucess extends Component {
                 <section className="body-content">
                 <ActivityStatus status={false} statusTips={'投票成功'}
                 statusText = {statusText} statusButtons = {statusButtons} />
-                {/* <Button type="primary" style={{ background: '#1AAD19' }}>查看投票结果</Button>
-
-                <Button type="primary" style={{ background: '#FFFFFF',color:'#000' }}>返回活动首页</Button>
-
-
-                 <Button type="primary" style={{ background: '#FFFFFF',color:'#000' }}>谢谢参与</Button> */}
                 </section>
 			</div>
 

@@ -1,0 +1,35 @@
+@import "../../asset/css/global.less";
+.alert {
+  .page-full;
+  .flex;
+  .flex-vCenter;
+  .flex-hCenter;
+  .positionFixed;
+  .flex-column;
+  display: none;
+  left: 0;
+  z-index: 10000;
+  .backgroundColor(rgba(0, 0, 0, 0.5));
+  .alert-message {
+    .borderCircle(@10px);
+    padding: @22px @42px;
+    color: @color-black-light;
+    font-size: @30px;
+    .backgroundColor(@color-white);
+    .text-wp{
+      margin: 10px;
+    }
+  }
+  .am-button{
+    min-width: 200px;
+  }
+}
+
+.alert-show {
+  //top: @140px;
+  display: flex;
+  -webkit-transition: opacity 300ms ease-in;
+  -moz-transition: opacity 300ms ease-in;
+  -o-transition: opacity 300ms ease-in;
+  transition: opacity 300ms ease-in;
+}
