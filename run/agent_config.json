@@ -10,13 +10,13 @@
       "domainWhiteList": [
         "http://localhost:9000",
         "http://127.0.0.1:9000",
-        "http://172.16.30.62:9000",
+        "http://172.16.30.34:9000",
         "http://localhost:9001",
         "http://127.0.0.1:9001",
-        "http://172.16.30.62:9001",
+        "http://172.16.30.34:9001",
         "http://localhost:9002",
         "http://127.0.0.1:9002",
-        "http://172.16.30.62:9002"
+        "http://172.16.30.34:9002"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
@@ -51,6 +51,10 @@
       "nosniff": {
         "enable": true
       },
+      "referrerPolicy": {
+        "enable": false,
+        "value": "no-referrer-when-downgrade"
+      },
       "xssProtection": {
         "enable": true,
         "value": "1; mode=block"
@@ -58,6 +62,10 @@
       "csp": {
         "enable": false,
         "policy": {}
+      },
+      "ssrf": {
+        "ipBlackList": null,
+        "checkAddress": null
       }
     },
     "helper": {
@@ -85,8 +93,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/chuans/Documents/to-g-apps/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/chuans/Documents/to-g-apps/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-watcher@3.0.0@egg-watcher\\lib\\event-sources\\default",
+        "development": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-watcher@3.0.0@egg-watcher\\lib\\event-sources\\development"
       }
     },
     "multipart": {
@@ -116,7 +124,7 @@
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/chuans/Documents/to-g-apps/logs/egg-react-single/egg-schedule.log"
+        "file": "D:\\project\\co\\h5\\to-g-apps\\logs\\egg-react-single\\egg-schedule.log"
       }
     },
     "logrotator": {
@@ -130,7 +138,7 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/chuans/Documents/to-g-apps/public",
+      "dir": "D:\\project\\co\\h5\\to-g-apps\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
@@ -138,7 +146,7 @@
       "maxAge": 0
     },
     "view": {
-      "root": "/Users/chuans/Documents/to-g-apps/app/view",
+      "root": "D:\\project\\co\\h5\\to-g-apps\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -149,8 +157,8 @@
     },
     "reactssr": {
       "doctype": "<!doctype html>",
-      "layout": "/Users/chuans/Documents/to-g-apps/app/view/layout.js",
-      "manifest": "/Users/chuans/Documents/to-g-apps/config/manifest.json",
+      "layout": "D:\\project\\co\\h5\\to-g-apps\\app\\view\\layout.js",
+      "manifest": "D:\\project\\co\\h5\\to-g-apps\\config\\manifest.json",
       "injectHeadRegex": "/(<\\/head>)/i",
       "injectBodyRegex": "/(<\\/body>)/i",
       "injectCss": true,
@@ -173,32 +181,32 @@
       },
       "webpackConfigList": [
         {
-          "context": "/Users/chuans/Documents/to-g-apps",
+          "context": "D:\\project\\co\\h5\\to-g-apps",
           "entry": {
             "404": [
               "react-hot-loader/patch",
-              "/Users/chuans/Documents/to-g-apps/node_modules/webpack-hot-middleware/client?path=http://172.16.30.62:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack/utils/hot.js",
-              "/Users/chuans/Documents/to-g-apps/app/web/page/ssr/404.jsx"
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_webpack-hot-middleware@2.22.0@webpack-hot-middleware/client?path=http://127.0.0.1:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack@3.8.8@easywebpack\\utils\\hot.js",
+              "D:\\project\\co\\h5\\to-g-apps\\app\\web\\page\\ssr\\404.jsx"
             ],
             "ssr": [
               "react-hot-loader/patch",
-              "/Users/chuans/Documents/to-g-apps/node_modules/webpack-hot-middleware/client?path=http://172.16.30.62:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack/utils/hot.js",
-              "/Users/chuans/Documents/to-g-apps/app/web/page/ssr/ssr.jsx"
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_webpack-hot-middleware@2.22.0@webpack-hot-middleware/client?path=http://127.0.0.1:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack@3.8.8@easywebpack\\utils\\hot.js",
+              "D:\\project\\co\\h5\\to-g-apps\\app\\web\\page\\ssr\\ssr.jsx"
             ],
             "layout": [
               "react-hot-loader/patch",
-              "/Users/chuans/Documents/to-g-apps/node_modules/webpack-hot-middleware/client?path=http://172.16.30.62:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack/utils/hot.js",
-              "/Users/chuans/Documents/to-g-apps/app/web/framework/layout/layout.jsx"
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_webpack-hot-middleware@2.22.0@webpack-hot-middleware/client?path=http://127.0.0.1:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack@3.8.8@easywebpack\\utils\\hot.js",
+              "D:\\project\\co\\h5\\to-g-apps\\app\\web\\framework\\layout\\layout.jsx"
             ]
           },
           "output": {
             "filename": "js/[name].js",
             "chunkFilename": "js/chunk/[name].js",
-            "path": "/Users/chuans/Documents/to-g-apps/public",
-            "publicPath": "http://172.16.30.62:9000/public/"
+            "path": "D:\\project\\co\\h5\\to-g-apps\\public",
+            "publicPath": "http://127.0.0.1:9000/public/"
           },
           "resolve": {
             "extensions": [
@@ -206,18 +214,18 @@
               ".jsx"
             ],
             "alias": {
-              "asset": "/Users/chuans/Documents/to-g-apps/app/web/asset",
-              "component": "/Users/chuans/Documents/to-g-apps/app/web/component",
-              "framework": "/Users/chuans/Documents/to-g-apps/app/web/framework",
-              "store": "/Users/chuans/Documents/to-g-apps/app/web/store"
+              "asset": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\asset",
+              "component": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\component",
+              "framework": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\framework",
+              "store": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\store"
             }
           },
           "externals": [],
           "resolveLoader": {
             "modules": [
-              "/Users/chuans/Documents/to-g-apps/node_modules",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack/node_modules",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack-react/node_modules"
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack@3.8.8@easywebpack\\node_modules",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack-react@3.6.1@easywebpack-react\\node_modules"
             ]
           },
           "target": "web",
@@ -228,7 +236,8 @@
                 "exclude": {},
                 "use": [
                   {
-                    "loader": "babel-loader"
+                    "loader": "babel-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -236,7 +245,8 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "eslint-loader"
+                    "loader": "eslint-loader",
+                    "options": {}
                   }
                 ],
                 "exclude": {},
@@ -246,7 +256,7 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "/Users/chuans/Documents/to-g-apps/node_modules/extract-text-webpack-plugin/dist/loader.js",
+                    "loader": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_extract-text-webpack-plugin@3.0.2@extract-text-webpack-plugin\\dist\\loader.js",
                     "options": {
                       "omit": 1,
                       "remove": true
@@ -271,7 +281,7 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "/Users/chuans/Documents/to-g-apps/node_modules/extract-text-webpack-plugin/dist/loader.js",
+                    "loader": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_extract-text-webpack-plugin@3.0.2@extract-text-webpack-plugin\\dist\\loader.js",
                     "options": {
                       "omit": 1,
                       "remove": true
@@ -291,7 +301,8 @@
                     "options": {}
                   },
                   {
-                    "loader": "sass-loader"
+                    "loader": "sass-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -299,7 +310,7 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "/Users/chuans/Documents/to-g-apps/node_modules/extract-text-webpack-plugin/dist/loader.js",
+                    "loader": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_extract-text-webpack-plugin@3.0.2@extract-text-webpack-plugin\\dist\\loader.js",
                     "options": {
                       "omit": 1,
                       "remove": true
@@ -330,7 +341,7 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "/Users/chuans/Documents/to-g-apps/node_modules/extract-text-webpack-plugin/dist/loader.js",
+                    "loader": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_extract-text-webpack-plugin@3.0.2@extract-text-webpack-plugin\\dist\\loader.js",
                     "options": {
                       "omit": 1,
                       "remove": true
@@ -350,7 +361,8 @@
                     "options": {}
                   },
                   {
-                    "loader": "less-loader"
+                    "loader": "less-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -362,6 +374,18 @@
                     "options": {
                       "limit": 1024,
                       "name": "img/[name].[ext]"
+                    }
+                  }
+                ]
+              },
+              {
+                "test": {},
+                "use": [
+                  {
+                    "loader": "url-loader",
+                    "options": {
+                      "limit": 1024,
+                      "name": "media/[name].[ext]"
                     }
                   }
                 ]
@@ -405,8 +429,8 @@
                 "EASY_ENV_IS_BROWSER": true,
                 "EASY_ENV_IS_NODE": false,
                 "EASY_ENV_LOCAL_PUBLIC_PATH": "\"/public/\"",
-                "EASY_ENV_PUBLIC_PATH": "\"http://172.16.30.62:9000/public/\"",
-                "EASY_ENV_HOST_URL": "\"http://172.16.30.62:9000\""
+                "EASY_ENV_PUBLIC_PATH": "\"http://127.0.0.1:9000/public/\"",
+                "EASY_ENV_HOST_URL": "\"http://127.0.0.1:9000\""
               },
               "__plugin__": "DefinePlugin",
               "__lable__": "define"
@@ -420,7 +444,7 @@
                 "ssr",
                 "layout"
               ],
-              "ident": "/Users/chuans/Documents/to-g-apps/node_modules/webpack/lib/optimize/CommonsChunkPlugin.js1",
+              "ident": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_webpack@3.11.0@webpack\\lib\\optimize\\CommonsChunkPlugin.js1",
               "__plugin__": "CommonsChunkPlugin",
               "__lable__": "commonsChunk"
             },
@@ -435,7 +459,7 @@
               "opts": {
                 "basePath": "",
                 "absPath": "",
-                "fileName": "../config/manifest.json",
+                "fileName": "..\\config\\manifest.json",
                 "commonsChunk": [
                   "runtime",
                   "common"
@@ -448,14 +472,14 @@
                 "map": null,
                 "generate": null,
                 "sort": null,
-                "baseDir": "/Users/chuans/Documents/to-g-apps",
-                "host": "http://172.16.30.62:9000",
+                "baseDir": "D:\\project\\co\\h5\\to-g-apps",
+                "host": "http://127.0.0.1:9000",
                 "proxy": true,
-                "buildPath": "/Users/chuans/Documents/to-g-apps/public",
-                "publicPath": "http://172.16.30.62:9000/public/",
+                "buildPath": "D:\\project\\co\\h5\\to-g-apps\\public",
+                "publicPath": "http://127.0.0.1:9000/public/",
                 "localPublicPath": "/public/",
                 "assets": false,
-                "filepath": "/Users/chuans/Documents/to-g-apps/config/manifest.json",
+                "filepath": "D:\\project\\co\\h5\\to-g-apps\\config\\manifest.json",
                 "dllConfig": [
                   {
                     "name": "vendor",
@@ -465,12 +489,15 @@
                     ]
                   }
                 ],
-                "dllDir": "/var/folders/c5/2hqh_mtj1s355v5rjdfzlg2c0000gn/T/easywebpack/egg-react-single/dev"
+                "dllDir": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp/easywebpack/egg-react-single/dev"
               },
               "__plugin__": "webpack-manifest-resource-plugin",
               "__lable__": "manifest"
             },
-            null,
+            {
+              "__plugin__": "progress-bar-webpack-plugin",
+              "__lable__": "progress"
+            },
             {
               "__plugin__": "directory-named-webpack-plugin",
               "__lable__": "directoryname"
@@ -478,106 +505,100 @@
             {
               "filename": "css/[name].css",
               "id": 2,
-              "options": {},
+              "options": {
+                "allChunks": true
+              },
               "__plugin__": "extract-text-webpack-plugin",
               "__lable__": "extract"
             },
             {
               "options": {
-                "context": "/Users/chuans/Documents/to-g-apps",
+                "context": "D:\\project\\co\\h5\\to-g-apps",
                 "manifest": {
                   "name": "vendor",
                   "content": {
-                    "./node_modules/fbjs/lib/containsNode.js": {
-                      "id": "./node_modules/fbjs/lib/containsNode.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/shallowEqual.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/shallowEqual.js",
                       "meta": {}
                     },
-                    "./node_modules/react-dom/index.js": {
-                      "id": "./node_modules/react-dom/index.js",
+                    "./node_modules/_react-dom@16.3.1@react-dom/index.js": {
+                      "id": "./node_modules/_react-dom@16.3.1@react-dom/index.js",
                       "meta": {}
                     },
-                    "./node_modules/react-dom/cjs/react-dom.development.js": {
-                      "id": "./node_modules/react-dom/cjs/react-dom.development.js",
+                    "./node_modules/_react-dom@16.3.1@react-dom/cjs/react-dom.development.js": {
+                      "id": "./node_modules/_react-dom@16.3.1@react-dom/cjs/react-dom.development.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/invariant.js": {
-                      "id": "./node_modules/fbjs/lib/invariant.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/invariant.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/invariant.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/warning.js": {
-                      "id": "./node_modules/fbjs/lib/warning.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/warning.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/warning.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/ExecutionEnvironment.js": {
-                      "id": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/ExecutionEnvironment.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/ExecutionEnvironment.js",
                       "meta": {}
                     },
-                    "./node_modules/object-assign/index.js": {
-                      "id": "./node_modules/object-assign/index.js",
+                    "./node_modules/_object-assign@4.1.1@object-assign/index.js": {
+                      "id": "./node_modules/_object-assign@4.1.1@object-assign/index.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/emptyFunction.js": {
-                      "id": "./node_modules/fbjs/lib/emptyFunction.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/emptyFunction.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/emptyFunction.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/EventListener.js": {
-                      "id": "./node_modules/fbjs/lib/EventListener.js",
+                    "./node_modules/_prop-types@15.6.1@prop-types/checkPropTypes.js": {
+                      "id": "./node_modules/_prop-types@15.6.1@prop-types/checkPropTypes.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/getActiveElement.js": {
-                      "id": "./node_modules/fbjs/lib/getActiveElement.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/getActiveElement.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/getActiveElement.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/shallowEqual.js": {
-                      "id": "./node_modules/fbjs/lib/shallowEqual.js",
+                    "./node_modules/_react@16.3.1@react/index.js": {
+                      "id": "./node_modules/_react@16.3.1@react/index.js",
                       "meta": {}
                     },
-                    "./node_modules/react/index.js": {
-                      "id": "./node_modules/react/index.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/containsNode.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/containsNode.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/focusNode.js": {
-                      "id": "./node_modules/fbjs/lib/focusNode.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/emptyObject.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/emptyObject.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/emptyObject.js": {
-                      "id": "./node_modules/fbjs/lib/emptyObject.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/hyphenateStyleName.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/hyphenateStyleName.js",
                       "meta": {}
                     },
-                    "./node_modules/prop-types/checkPropTypes.js": {
-                      "id": "./node_modules/prop-types/checkPropTypes.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/camelizeStyleName.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/camelizeStyleName.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/hyphenateStyleName.js": {
-                      "id": "./node_modules/fbjs/lib/hyphenateStyleName.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/camelize.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/camelize.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/camelizeStyleName.js": {
-                      "id": "./node_modules/fbjs/lib/camelizeStyleName.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/hyphenate.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/hyphenate.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/camelize.js": {
-                      "id": "./node_modules/fbjs/lib/camelize.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/isTextNode.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/isTextNode.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/hyphenate.js": {
-                      "id": "./node_modules/fbjs/lib/hyphenate.js",
+                    "./node_modules/_fbjs@0.8.16@fbjs/lib/isNode.js": {
+                      "id": "./node_modules/_fbjs@0.8.16@fbjs/lib/isNode.js",
                       "meta": {}
                     },
-                    "./node_modules/prop-types/lib/ReactPropTypesSecret.js": {
-                      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+                    "./node_modules/_prop-types@15.6.1@prop-types/lib/ReactPropTypesSecret.js": {
+                      "id": "./node_modules/_prop-types@15.6.1@prop-types/lib/ReactPropTypesSecret.js",
                       "meta": {}
                     },
-                    "./node_modules/fbjs/lib/isTextNode.js": {
-                      "id": "./node_modules/fbjs/lib/isTextNode.js",
-                      "meta": {}
-                    },
-                    "./node_modules/fbjs/lib/isNode.js": {
-                      "id": "./node_modules/fbjs/lib/isNode.js",
-                      "meta": {}
-                    },
-                    "./node_modules/react/cjs/react.development.js": {
-                      "id": "./node_modules/react/cjs/react.development.js",
+                    "./node_modules/_react@16.3.1@react/cjs/react.development.js": {
+                      "id": "./node_modules/_react@16.3.1@react/cjs/react.development.js",
                       "meta": {}
                     }
                   }
@@ -589,17 +610,17 @@
           ]
         },
         {
-          "context": "/Users/chuans/Documents/to-g-apps",
+          "context": "D:\\project\\co\\h5\\to-g-apps",
           "entry": {
-            "404": "/Users/chuans/Documents/to-g-apps/app/web/page/ssr/404.jsx",
-            "ssr": "/Users/chuans/Documents/to-g-apps/app/web/page/ssr/ssr.jsx",
-            "layout": "/Users/chuans/Documents/to-g-apps/app/web/framework/layout/layout.jsx"
+            "404": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\page\\ssr\\404.jsx",
+            "ssr": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\page\\ssr\\ssr.jsx",
+            "layout": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\framework\\layout\\layout.jsx"
           },
           "output": {
             "libraryTarget": "commonjs2",
             "filename": "[name].js",
-            "path": "/Users/chuans/Documents/to-g-apps/app/view",
-            "publicPath": "http://172.16.30.62:9000/public/"
+            "path": "D:\\project\\co\\h5\\to-g-apps\\app\\view",
+            "publicPath": "http://127.0.0.1:9000/public/"
           },
           "resolve": {
             "extensions": [
@@ -607,10 +628,10 @@
               ".jsx"
             ],
             "alias": {
-              "asset": "/Users/chuans/Documents/to-g-apps/app/web/asset",
-              "component": "/Users/chuans/Documents/to-g-apps/app/web/component",
-              "framework": "/Users/chuans/Documents/to-g-apps/app/web/framework",
-              "store": "/Users/chuans/Documents/to-g-apps/app/web/store"
+              "asset": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\asset",
+              "component": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\component",
+              "framework": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\framework",
+              "store": "D:\\project\\co\\h5\\to-g-apps\\app\\web\\store"
             }
           },
           "externals": [
@@ -618,9 +639,9 @@
           ],
           "resolveLoader": {
             "modules": [
-              "/Users/chuans/Documents/to-g-apps/node_modules",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack/node_modules",
-              "/Users/chuans/Documents/to-g-apps/node_modules/easywebpack-react/node_modules"
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack@3.8.8@easywebpack\\node_modules",
+              "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_easywebpack-react@3.6.1@easywebpack-react\\node_modules"
             ]
           },
           "target": "node",
@@ -635,7 +656,8 @@
                 "exclude": {},
                 "use": [
                   {
-                    "loader": "babel-loader"
+                    "loader": "babel-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -643,7 +665,8 @@
                 "test": {},
                 "use": [
                   {
-                    "loader": "eslint-loader"
+                    "loader": "eslint-loader",
+                    "options": {}
                   }
                 ],
                 "exclude": {},
@@ -684,7 +707,8 @@
                     "options": {}
                   },
                   {
-                    "loader": "sass-loader"
+                    "loader": "sass-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -729,7 +753,8 @@
                     "options": {}
                   },
                   {
-                    "loader": "less-loader"
+                    "loader": "less-loader",
+                    "options": {}
                   }
                 ]
               },
@@ -741,6 +766,18 @@
                     "options": {
                       "limit": 1024,
                       "name": "img/[name].[ext]"
+                    }
+                  }
+                ]
+              },
+              {
+                "test": {},
+                "use": [
+                  {
+                    "loader": "url-loader",
+                    "options": {
+                      "limit": 1024,
+                      "name": "media/[name].[ext]"
                     }
                   }
                 ]
@@ -779,20 +816,23 @@
                 "EASY_ENV_IS_BROWSER": false,
                 "EASY_ENV_IS_NODE": true,
                 "EASY_ENV_LOCAL_PUBLIC_PATH": "\"/public/\"",
-                "EASY_ENV_PUBLIC_PATH": "\"http://172.16.30.62:9000/public/\"",
-                "EASY_ENV_HOST_URL": "\"http://172.16.30.62:9000\""
+                "EASY_ENV_PUBLIC_PATH": "\"http://127.0.0.1:9000/public/\"",
+                "EASY_ENV_HOST_URL": "\"http://127.0.0.1:9000\""
               },
               "__plugin__": "DefinePlugin",
               "__lable__": "define"
             },
-            null,
+            {
+              "__plugin__": "progress-bar-webpack-plugin",
+              "__lable__": "progress"
+            },
             {
               "__plugin__": "directory-named-webpack-plugin",
               "__lable__": "directoryname"
             },
             {
               "resourceRegExp": {},
-              "newResource": "/Users/chuans/Documents/to-g-apps/node_modules/node-noop/index.js",
+              "newResource": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_node-noop@1.0.0@node-noop\\index.js",
               "__plugin__": "NormalModuleReplacementPlugin",
               "__lable__": "modulereplacement"
             },
@@ -891,9 +931,9 @@
       "license": "MIT",
       "homepage": "https://github.com/hubcarl/egg-react-webpack-boilerplate"
     },
-    "baseDir": "/Users/chuans/Documents/to-g-apps",
-    "HOME": "/Users/chuans",
-    "rundir": "/Users/chuans/Documents/to-g-apps/run",
+    "baseDir": "D:\\project\\co\\h5\\to-g-apps",
+    "HOME": "C:\\Users\\Administrator",
+    "rundir": "D:\\project\\co\\h5\\to-g-apps\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -923,7 +963,7 @@
       }
     },
     "logger": {
-      "dir": "/Users/chuans/Documents/to-g-apps/logs",
+      "dir": "D:\\project\\co\\h5\\to-g-apps\\logs",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -1008,8 +1048,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-session",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-session@3.1.0@egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -1021,9 +1061,9 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-security",
-      "version": "2.0.0"
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-security@2.2.2@egg-security",
+      "version": "2.2.2"
     },
     "jsonp": {
       "enable": true,
@@ -1034,8 +1074,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-jsonp",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -1047,8 +1087,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-onerror",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-onerror@2.0.0@egg-onerror",
       "version": "2.0.0"
     },
     "i18n": {
@@ -1058,8 +1098,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-i18n",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-i18n@2.0.0@egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -1069,8 +1109,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-watcher",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-watcher@3.0.0@egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -1080,8 +1120,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-multipart",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-multipart@2.0.0@egg-multipart",
       "version": "2.0.0"
     },
     "development": {
@@ -1095,8 +1135,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-development",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-development@2.2.0@egg-development",
       "version": "2.2.0"
     },
     "schedule": {
@@ -1106,8 +1146,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-schedule",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-schedule@3.3.0@egg-schedule",
       "version": "3.3.0"
     },
     "logrotator": {
@@ -1119,9 +1159,9 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-logrotator",
-      "version": "3.0.2"
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-logrotator@3.0.3@egg-logrotator",
+      "version": "3.0.3"
     },
     "static": {
       "enable": true,
@@ -1130,8 +1170,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-static",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-static@2.1.0@egg-static",
       "version": "2.1.0"
     },
     "view": {
@@ -1141,8 +1181,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/node_modules/egg/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-view",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg@2.6.0@egg\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-view@2.1.0@egg-view",
       "version": "2.1.0"
     },
     "reactssr": {
@@ -1152,9 +1192,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/config/plugin.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-view-react-ssr",
-      "version": "2.2.2"
+      "from": "D:\\project\\co\\h5\\to-g-apps\\config\\plugin.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-view-react-ssr@2.2.4@egg-view-react-ssr",
+      "version": "2.2.4"
     },
     "cors": {
       "enable": true,
@@ -1163,8 +1203,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/chuans/Documents/to-g-apps/config/plugin.local.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-cors",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\config\\plugin.local.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-cors@2.0.0@egg-cors",
       "version": "2.0.0"
     },
     "webpack": {
@@ -1176,9 +1216,9 @@
       "env": [
         "local"
       ],
-      "from": "/Users/chuans/Documents/to-g-apps/config/plugin.local.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack",
-      "version": "3.3.2"
+      "from": "D:\\project\\co\\h5\\to-g-apps\\config\\plugin.local.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-webpack@3.3.6@egg-webpack",
+      "version": "3.3.6"
     },
     "webpackreact": {
       "enable": true,
@@ -1189,8 +1229,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/chuans/Documents/to-g-apps/config/plugin.local.js",
-      "path": "/Users/chuans/Documents/to-g-apps/node_modules/egg-webpack-react",
+      "from": "D:\\project\\co\\h5\\to-g-apps\\config\\plugin.local.js",
+      "path": "D:\\project\\co\\h5\\to-g-apps\\node_modules\\_egg-webpack-react@2.0.2@egg-webpack-react",
       "version": "2.0.2"
     }
   }

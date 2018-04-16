@@ -16,6 +16,12 @@ import SureActivityInfo from 'component/spa/ssr/components/sure-activity-info';
 // 获取结果中
 import GetVoteResult from 'component/spa/ssr/components/get-vote-result';
 
+//一键投票
+import OneKeyVote from 'component/spa/ssr/components/one-key-vote'
+
+//活动成功页面
+import ActivitySuccess from 'component/spa/ssr/components/activity-sucess'
+
 import 'asset/css/app.less';
 
 class App extends Component {
@@ -42,6 +48,8 @@ class App extends Component {
         <Route path="/ssr/input-persion-info" component={InputPersionInfo}/>
         <Route path="/ssr/sure-activity-info" component={SureActivityInfo}/>
         <Route path="/ssr/get-vote-result" component={GetVoteResult}/>
+        <Route path="/ssr/one-key-vote" component={OneKeyVote}/>
+        <Route path="/ssr/activity-sucess/:typeId" component={ActivitySuccess}/>
         <Route path="/ssr" component={Home}/>
       </Switch>
       {/*<img ref={el => this.checkImgWebP = el} src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=" onLoad={this.imgWebP} onError={this.imgWebP}/>*/}

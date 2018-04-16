@@ -189,6 +189,68 @@ body {
     }
 }
 
+
+//一键投票
+.one-key-vote-wrap {
+    .body-content{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+        .option{
+            flex:1;
+            height: 320px;
+            width: 48%;
+            .left{
+                justify-content: space-around;
+                display: flex;
+                flex-direction: column;
+                *{
+                   flex:1;
+                }
+            }
+        }
+        .option:nth-child(odd){
+            margin-left: 10px;
+        }
+        .am-button-primary::before{
+            border: 2px solid #1AAD19;
+        }
+    }
+
+    .am-wingblank{
+        .am-button-primary{
+            border-radius: 0;
+        }
+    }
+}
+
+//投票成功 main-status-wrapper
+.main-status-wrapper {
+    padding-top: @98px;
+    .body-content{
+        padding: @30px;
+        text-align: center;
+        .am-button{
+            margin-top: @20px;
+        }
+    }
+
+}
+
+//活动状态
+.activity-status {
+    .am-icon-lg{
+        width: 77px;
+        height: 77px;
+    }
+    .test-wrapper{
+        background-color: #fff;
+        padding: 10px;
+        margin-top: 10px;
+        line-height: 20px;
+    }
+}
+
 // 活动报名详情
 .sign-up-activity {
     padding-top: @98px;
