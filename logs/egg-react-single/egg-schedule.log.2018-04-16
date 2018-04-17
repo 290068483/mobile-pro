@@ -1,0 +1,20 @@
+2018-04-16 08:26:30,507 INFO 35636 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-17 00:00:00.000
+2018-04-16 08:26:30,507 INFO 35636 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-17 00:00:01.000
+2018-04-16 09:34:39,736 INFO 19860 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-17 00:00:00.000
+2018-04-16 09:34:39,737 INFO 19860 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-17 00:00:01.000
+2018-04-16 09:59:10,915 INFO 31760 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-17 00:00:00.000
+2018-04-16 09:59:10,915 INFO 31760 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-17 00:00:01.000
+2018-04-16 10:55:47,400 INFO 32824 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-17 00:00:00.000
+2018-04-16 10:55:47,401 INFO 32824 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-17 00:00:01.000
+2018-04-16 11:37:12,514 INFO 23964 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-17 00:00:00.000
+2018-04-16 11:37:12,514 INFO 23964 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-17 00:00:01.000
+2018-04-17 00:00:03,661 INFO 35552 [1523894403657660361583122571] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-04-17 00:00:03,662 INFO 35552 [1523894403657660361583122571] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-04-17 00:00:03,686 INFO 35552 [1523894403657660361583122571] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js execute succeed, used 23ms
+2018-04-17 00:00:03,658 INFO 23964 [1523894403657660361583122571] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-04-17 00:00:03,667 INFO 23964 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-04-18 00:00:00.000
+2018-04-17 00:00:04,658 INFO 29972 [1523894404657660362582049983] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-04-17 00:00:04,659 INFO 29972 [1523894404657660362582049983] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-04-17 00:00:04,689 INFO 29972 [1523894404657660362582049983] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 29ms
+2018-04-17 00:00:04,657 INFO 23964 [1523894404657660362582049983] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-04-17 00:00:04,663 INFO 23964 [Timer] D:\project\co\h5\to-g-apps\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-04-18 00:00:01.000

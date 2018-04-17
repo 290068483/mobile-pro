@@ -44,7 +44,7 @@ class FastVote extends Component {
 
 
 		return (
-			<div className="main-vote-wrap">
+			<div className="main-activity-wrap">
 				一键投票
 			</div>
 

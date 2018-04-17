@@ -59,7 +59,7 @@ class OneKeyVote extends Component {
 
 	render() {
 		return (
-			<div className="main-vote-wrap one-key-vote-wrap">
+			<div className="main-activity-wrap one-key-vote-wrap">
 				<Header titleIsBlueColor={false} isBack={true} back={() => this.props.history.goBack()} title="一键投票"/>
 				<section>
 				<div className="header-content">
@@ -91,7 +91,7 @@ class OneKeyVote extends Component {
 				} )}
 				</div>
 
-				<WingBlank style={{padding:'0',margin:'0'}}><Button type="primary" style={{ background: '#1AAD19' }}>提交</Button></WingBlank>
+				<WingBlank className="button-full-reset" ><Button type="primary" style={{ background: '#1AAD19' }}>提交</Button></WingBlank>
 			</div>
 
 		);

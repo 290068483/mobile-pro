@@ -22,6 +22,8 @@ import OneKeyVote from 'component/spa/ssr/components/one-key-vote'
 //活动成功页面
 import ActivitySuccess from 'component/spa/ssr/components/activity-sucess'
 
+//问卷调查页面
+import QuestionnaireSurvey from 'component/spa/ssr/components/questionnaire-survey'
 import 'asset/css/app.less';
 
 class App extends Component {
@@ -50,6 +52,7 @@ class App extends Component {
         <Route path="/ssr/get-vote-result" component={GetVoteResult}/>
         <Route path="/ssr/one-key-vote" component={OneKeyVote}/>
         <Route path="/ssr/activity-sucess/:typeId" component={ActivitySuccess}/>
+        <Route path="/ssr/questionnaire-survey/:activityId/:titleId" key={new Date().getTime()} component={QuestionnaireSurvey}/>
         <Route path="/ssr" component={Home}/>
       </Switch>
       {/*<img ref={el => this.checkImgWebP = el} src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=" onLoad={this.imgWebP} onError={this.imgWebP}/>*/}

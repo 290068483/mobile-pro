@@ -70,14 +70,14 @@ class Vote extends Component {
 	render() {
 		let {voteInfo} = this.state;
 		return (
-			<div className="main-vote-wrap">
+			<div className="main-activity-wrap">
 				<Header titleIsBlueColor={false} isBack={true} back={() => this.props.history.goBack()} title="投票"/>
 				<div className="header-content">
 					<p className='title'>投票题目内容投票题目内容投票题目内容投票题目内容投票题目内容投票题目内</p>
 					<p className='desc'>补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述补充描述</p>
 				</div>
-				<RadioMultiSelect 
-				voteInfo = {voteInfo}
+				<RadioMultiSelect type = 'vote'
+				voteInfo = {voteInfo} 
 				checkBoxChange={this.checkBoxChange.bind(this)} />
 				<WingBlank style={{padding:'30px 0'}}><Button type="primary" style={{ background: '#1AAD19' }}>投票</Button></WingBlank>
 			</div>

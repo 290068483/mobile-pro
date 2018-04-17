@@ -3,7 +3,17 @@ import {
 	Button,WingBlank,Checkbox
 } from 'antd-mobile';
 
-const CheckboxItem = Checkbox.AgreeItem
+const CheckboxItem = Checkbox.AgreeItem;
+const wrapperMap = {
+    'vote':{
+        className:'main-vote-wrap',
+        subTitle:'投票选项'
+    },
+    'questionnaireSurvey':{
+        className:'main-questionnaire-survey',
+        subTitle:'问卷调查选项'
+    }
+}
 import PropTypes from 'prop-types';
 
 import './index.less';
@@ -12,15 +22,11 @@ import './index.less';
 class RadioMultiSelect extends Component {
     constructor(props) {
         super(props);
-        this.state = {
-            voteInfo:null
-        }
     }
     
 
  componentWillMount() {
     console.log('----componentWillMount')
-   
  }
 
  componentDidMount(){
@@ -31,14 +37,14 @@ class RadioMultiSelect extends Component {
  }
 render(){
     console.log('-----render');
-    let  { voteInfo,checkBoxChange } = this.props;
+    let  { voteInfo,checkBoxChange,type } = this.props,wpName =`${wrapperMap[type].className}-wrapper`
     return (
-        <div className="main-vote-wrap radio-multi-select-wrapper">
+        <div className={`${wpName} main-activity-wrap radio-multi-select-wrapper`}>
             {voteInfo && voteInfo.map( (val,index_p) => {
                  let classN = `${val.type == 1 ?'radio':'multi'}-wrapper`
                         return (
                             <div className={`${classN} body-content`} key={index_p}>
-                                <div className="select-row-title">投票选项{val.type === 1 ? '（单选）' : '（多选）'}</div>
+                                <div className="select-row-title">{wrapperMap[type]['subTitle']}{val.type === 1 ? '（单选）' : '（多选）'}</div>
                                 {val.list.map( (val_1,index_c) => {
                                     let classN = 'option' + (index_c===val.list.length-1 ? ' last':'');
                                     if(val_1.isActive){
@@ -73,16 +79,17 @@ render(){
   
 };
 
-// RadioMultiSelect.propTypes = {
-//   show: PropTypes.bool.isRequired,
-//   message: PropTypes.string.isRequired,
-//   confirmHandle:PropTypes.func.isRequired
-// };
+RadioMultiSelect.propTypes = {
+    //外面定义checkBox方法
+    checkBoxChange: PropTypes.func.isRequired,
+    //传进来的数据
+    voteInfo: PropTypes.array.isRequired,
+    //活动类型相关的type
+    type:PropTypes.string.isRequired
+};
 
 RadioMultiSelect.defaultProps = {
-  show: false,
-  message: '',
-  style:{} //默认没有样式
+
 };
 
 export default RadioMultiSelect;
